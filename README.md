@@ -4,4 +4,4 @@ easy and quick to type <br />
 
 ## 미리보기(preview)
 
-![this-one](https://github.com/parkirae/intelligence-login-extension/assets/76719977/83843478-261c-4b61-85d8-59328f831303)
+![this one](https://github.com/parkirae/intelligence-login-extension/assets/76719977/44b1a6bf-ab80-4fed-b2e6-ed8d5c4f0594)
